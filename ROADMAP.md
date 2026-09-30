@@ -51,10 +51,10 @@ Kalau punya 4 jam, tambahkan waktunya di sesi latihan.
 **Tujuan:** bisa menulis program PHP sendiri tanpa lihat contoh dan tanpa AI.
 
 ### Setup awal (Hari 1)
-- [ ] Laragon jalan, folder `belajar-php` di dalam `www`, `index.php` bisa dibuka lewat `localhost`
-- [ ] VS Code terpasang
-- [ ] Akun GitHub + repo `belajar-php`
-- [ ] Hafal 5 perintah Git: `git init`, `git add .`, `git commit -m "pesan"`, `git remote add origin`, `git push`
+- [x] Laragon jalan, folder `belajar-php` di dalam `www`, `index.php` bisa dibuka lewat `localhost`
+- [x] VS Code terpasang
+- [x] Akun GitHub + repo `belajar-php`
+- [x] Hafal 5 perintah Git: `git init`, `git add .`, `git commit -m "pesan"`, `git remote add origin`, `git push`
 
 ### Week 1: Dasar PHP
 - [ ] **Hari 1:** Setup + Git + Hello World (`<?php echo "Hello World"; ?>`), paham tag pembuka/penutup
